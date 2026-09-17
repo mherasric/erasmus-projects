@@ -1,0 +1,6 @@
+5 5
+E F0 E F3 E 
+P E E F0 E 
+P P P G0 F2 
+P E P E E 
+E F0 F4 E G0 

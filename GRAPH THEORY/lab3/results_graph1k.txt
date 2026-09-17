@@ -1,0 +1,7 @@
+Shortest path from 1 to 100 in graph1k.txt:
+Cost: 141
+Path: 1 -> 5 -> 487 -> 175 -> 714 -> 799 -> 222 -> 561 -> 100
+
+Shortest path from 100 to 1 in graph1k.txt:
+Cost: 196
+Path: 100 -> 259 -> 229 -> 641 -> 538 -> 854 -> 1
